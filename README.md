@@ -1,5 +1,5 @@
 # internship
-#  internship at Vrisharya Tecnologies  
+#  Internship at Vrisharya Technologies  
 
 
-this repo contain documentation about internship
+This repo contain documentation about internship
